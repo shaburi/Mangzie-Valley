@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Mangzie Valley" is an exciting 2D farming simulation game developed using Agile methodology. This project aims to deliver an engaging gaming experience by incorporating player feedback, iterative development, and a commitment to quality. From defining core requirements to implementing intricate gameplay mechanics, the project follows Agile principles to ensure adaptability, transparency, and a continuous evolution of the game.
+"Mangzie Valley" is an exciting 2D farming simulation game developed using PyGame. This project aims to deliver an engaging gaming experience by incorporating player feedback, iterative development, and a commitment to quality. From defining core requirements to implementing intricate gameplay mechanics, the project follows Agile principles to ensure adaptability, transparency, and a continuous evolution of the game.
 
 ## Key Features
 
