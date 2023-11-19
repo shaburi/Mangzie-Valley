@@ -23,8 +23,5 @@ Follow these steps to set up and run "Mangzie Valley" locally:
 
 We welcome your feedback and contributions to make "Mangzie Valley" even better! Please open an issue for bug reports or feature requests, and feel free to submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Happy farming in Mangzie Valley!
